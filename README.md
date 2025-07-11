@@ -86,13 +86,13 @@ All datasets are cleaned, joined, and transformed using **Power Query** for high
 - Improved product assortment planning based on category performance trends
 - Enhanced visibility for senior leadership through executive-level dashboards
 
----
+
 
 ## 🔐 Note on Data Privacy
 
 All sensitive or proprietary information in this project is either anonymized or simulated for portfolio/demo purposes. No actual Blinkit user or financial data is exposed.
 
----
+Demo/Preview--https://github.com/Mohit-295/-Blinkit-dashboard/blob/main/snapshot%20blinkit%20dash.png
 
 > _Designed to reflect speed, clarity, and data-driven precision—just like Blinkit itself._  
 > — Mohit
